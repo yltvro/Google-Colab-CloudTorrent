@@ -2,4 +2,4 @@
 
 #copy 2 copy
 
-mv "{sourcepath}" "{targetpath}"
+mv "${sourcepath}" "${targetpath}"
